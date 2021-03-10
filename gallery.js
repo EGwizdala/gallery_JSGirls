@@ -52,7 +52,7 @@ function selectPin(newNumber) {
 
 for (let nrPinu = 1; nrPinu <= slideNumbers.length; nrPinu++){
     document.querySelector("#pin"+ nrPinu ).addEventListener("click", function(){showSlide(nrPinu)});     
-}s
+}
 
 function showNextSlide () {
     
