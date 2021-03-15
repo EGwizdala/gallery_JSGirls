@@ -15,7 +15,7 @@ An interactive slider gallery made during JSGirls workshops
 Goal of the workshops was to program a prepared slider and give it functionalities in JS: button-changer, left/right arrow changing slide to previous/next img, start/stop button. The workshops took place in Gdańsk on 2021-02-22.
 
 ## Screenshots
-![Gallery](/gallery.png)
+![Gallery](Gallery.png)
 
 ## Technologies
 * HTML5
